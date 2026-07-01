@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0012/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 父子合集經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0320.xml
+    old_id: T11n0320
+hash: sha256:5f21bb1af7008d891681ba9a827132a976494ec933bd922acf2e5caf53b567e2
